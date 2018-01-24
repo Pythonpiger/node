@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+test/.idea/dictionaries/ASUS.xml
+test/.idea/.name
+test/.idea/jsLibraryMappings.xml
+test/.idea/misc.xml
+test/.idea/modules.xml
+test/.idea/test.iml
+test/.idea/vcs.xml
+test/.idea/workspace.xml
